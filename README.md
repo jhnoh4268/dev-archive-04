@@ -99,5 +99,3 @@ Assets/
 | UniTask | Git (Cysharp/UniTask) |
 | DOTween | `Assets/Plugins/Demigiant` |
 | TextMesh Pro | uGUI 2.0.0 내장 |
-
-<h1>[Unity3D] VampireSurvival 3D</h1>
