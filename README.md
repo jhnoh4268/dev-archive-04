@@ -54,7 +54,7 @@ Unity 6로 만든 3D 뱀서라이크(Vampire Survivors-like) 게임입니다. �
 
 ```
 Assets/
-├── 01.Scenes/          InGame(메인 게임), LoginScene(로그인)
+├── 01.Scenes/          InGame(메인 게임)
 ├── 02.Scripts/
 │   ├── Manager/        MANAGER, PoolManager, DBManager, SessionManager, SkillManager
 │   ├── Skill/          SkillBase, 액티브 스킬 6종, PassiveManager, Monster/(보스 스킬)
